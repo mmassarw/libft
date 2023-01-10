@@ -6,7 +6,7 @@
 /*   By: mmassarw <mmassarw@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/06 16:32:13 by mmassarw          #+#    #+#             */
-/*   Updated: 2023/01/10 02:49:51 by mmassarw         ###   ########.fr       */
+/*   Updated: 2023/01/10 14:47:53 by mmassarw         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@
 # include <stdlib.h>
 # include <stdio.h>
 # include <stdarg.h>
-# include <limits.h>
+# include <sys/param.h>
 
 # define DEC "0123456789"
 # define HEXL "0123456789abcdef"
